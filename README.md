@@ -1,6 +1,6 @@
 # Galgje – Git Collaboration
 
-**Team:** <Teamnaam>  
+**Team:** bomvest  
 **Spelvolgorde & contact:**
 1. <Naam 1> – Timovanes5@gmail.com
 2. <Naam 2> – Fedderaat@gmail.com
@@ -17,7 +17,7 @@
 
 # Galgje – Git Collaboration
 
-**Team:** <Teamnaam>  
+**Team:** bomvest
 **Spelvolgorde & contact:**
 1. <Naam 1> – Timovanes5@gmail.com
 2. <Naam 2> – Fedderaat@gmail.com
