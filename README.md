@@ -33,4 +33,5 @@
 ## Status
 ![status](images/1.png)
 Timo gokt H
+Kenny gokt A
 
