@@ -5,7 +5,7 @@
 1. <Naam 1> – Timo
 2. <Naam 2> – Fedde
 3. <Naam 3> – Kenny
-4. <Naam 4> – Luuk
+4. <Naam 4> – Luke
 
 ---
 
@@ -35,4 +35,6 @@
 Timo gokt H
 
 Kenny gokt A
+
+Luke gokt I
 
